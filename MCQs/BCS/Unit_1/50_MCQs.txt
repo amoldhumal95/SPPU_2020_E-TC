@@ -1,0 +1,534 @@
+____________ alloys such as InGaAsP and GaAsSb deposited on InP and GaSb substrate.
+Select one:
+a. Quaternary
+b. Gain-guided
+c. III – V alloys Incorrect
+d. Ternary
+       
+The correct answer is: Ternary
+Question 2
+       
+ Most fiber-optic light sources emit light in which spectrum?
+Select one:
+a. Infrared
+b. Visible Incorrect
+c. X-ray
+d. Ultraviolet
+       
+The correct answer is: Infrared
+Question 3
+       
+ Dispersion is used to describe the
+Select one:
+a. Bending of a beam of light when it goes from one medium to another
+b. Bending of a beam light when it strikes a mirror
+c. Splitting of white light into its component colors Correct
+d. Propagation of light in straight lines
+       
+The correct answer is: Splitting of white light into its component colors
+Question 4
+       
+ The core of an optical fiber has a
+Select one:
+a. Higher refractive index than the cladding Correct
+b. Similar refractive index with the cladding
+c. Lower refracted index than air
+d. Lower refractive index than the cladding
+       
+The correct answer is: Higher refractive index than the cladding
+Question 5
+       
+ Which of the following materials is sensitive to light?
+Select one:
+a. Photosensitive
+b. Photoresist Correct
+c. Light Sensitive
+d. Maser
+       
+The correct answer is: Photoresist
+Question 6
+       
+If a mirror is used to reflect light, the reflected light angle is ____ as the incident angle
+Select one:
+a. The same Correct
+b. Smaller
+c. Independent
+d. Larger
+       
+The correct answer is: The same
+Question 7
+       
+In optical fiber communication, the only weakly absorbing material over wavelength band required is?
+Select one:
+a. GaAs
+b. Germanium
+c. GaSb
+d. Silicon Incorrect
+       
+The correct answer is: GaSb
+Question 8
+       
+ Single-frequency light is called
+Select one:
+a. Pure
+b. Intense
+c. Monochromatic Correct
+d. Coherent
+       
+The correct answer is: Monochromatic
+Question 9
+       
+Fiber optic cables operate at frequencies near
+Select one:
+a. 800 THz
+b. 20 MHz
+c. 200 MHz
+d. 2G Hz Incorrect
+       
+The correct answer is: 800 THz
+Question 10
+       
+The bandwidth of a fiber is limited by
+Select one:
+a. Frequency
+b. Wavelength Incorrect
+c. Mode
+d. Dispersion
+       
+The correct answer is: Dispersion
+Question 11
+       
+A fiber which is referred as non-dispersive shifted fiber is?
+Select one:
+a. Standard single mode fibers
+b. Non zero dispersion shifted fibers
+c. Standard multimode fibers
+d. Coaxial cables Incorrect
+       
+The correct answer is: Standard single mode fibers
+Question 12
+       
+Multimode step index fibers have a bandwidth of ___________
+Select one:
+a. 2 to 30 MHz km
+b. 8 to 40 MHz km Incorrect
+c. 6 to 50 MHz km
+d. 10 to 40 MHz km
+       
+The correct answer is: 6 to 50 MHz km
+Question 13
+       
+In single mode fibers, which is the most beneficial index profile?
+Select one:
+a. Step index
+b. Coaxial cable
+c. Step and graded index
+d. Graded index Correct
+       
+The correct answer is: Graded index
+Question 14
+       
+ An important requirement for successful transmission system using light
+Select one:
+a. Reliable, high cost transmission medium
+b. Strong glass
+c. Powerful, reliable light source
+d. Powerful regenerators Incorrect
+       
+The correct answer is: Powerful, reliable light source
+Question 15
+       
+ Founded the wave theory of light
+Select one:
+a. Christian Huygens Correct
+b. Edward Appleton
+c. Francesco Grimaldi
+d. James Clerk Maxwell
+       
+The correct answer is: Christian Huygens
+Question 16
+       
+The insertion losses of the fiber splices are much less than the Fresnel reflection loss at a butted fiber joint.
+Select one:
+a. True Correct
+b. False
+       
+The correct answer is: True
+Question 17
+       
+Multimode graded index fibers use incoherent source only.
+Select one:
+a. False Correct
+b. True
+       
+The correct answer is: False
+Question 18
+       
+__________ can induce a considerable amount of attenuation in optical fibers.
+Select one:
+a. Radiation Exposure
+b. Dispersion Incorrect
+c. Micro-bending
+d. Diffusion of hydrogen
+       
+The correct answer is: Radiation Exposure
+Question 19
+       
+In general, any connection to the customer of how much bandwidth is considered broadband Internet.
+Select one:
+a. 64 kbps
+b. 56 kbps
+c. 128 kbps Incorrect
+d. 256 kbps
+       
+The correct answer is: 256 kbps
+Question 20
+       
+A typically structured glass multimode step index fiber shows as variation of attenuation in range of ___________
+Select one:
+a. 2.6 to 50 dB km-1 at wavelength 0.85µm Correct
+b. 1.2 to 90 dB km-1 at wavelength 0.69µm
+c. 1.6 to 60 dB km-1 at wavelength 0.90µm
+d. 3.2 to 30 dB km-1 at wavelength 0.59µm
+       
+The correct answer is: 2.6 to 50 dB km-1 at wavelength 0.85µm
+Question 21
+       
+ The bandwidth of optical fiber
+Select one:
+a. 900 PHz
+b. 900 EHz
+c. 900 THz
+d. 900M Hz Incorrect
+       
+The correct answer is: 900 THz
+Question 22
+       
+Multimode step index fiber has a large core diameter of range is ___________
+Select one:
+a. 200 to 500 nm
+b. 100 to 300 µm
+c. 200 to 500 µm
+d. 100 to 300 nm Incorrect
+       
+The correct answer is: 100 to 300 µm
+Question 23
+       
+The depletion region must be ____________ to allow a large fraction of the incident light to be absorbed in the device(photodiode).
+Select one:
+a. Inactive
+b. Thick Correct
+c. Thin
+d. Long
+       
+The correct answer is: Thick
+Question 24
+       
+ Which type of fiber-optic cable has the least modal dispersion?
+Select one:
+a. Multimode step-index
+b. Multimode graded-index Incorrect
+c. Single mode step-index
+d. Single-mode graded-index
+       
+The correct answer is: Single mode step-index
+Question 25
+       
+The core of an optical fiber has a
+Select one:
+a. Higher refractive index than the cladding Correct
+b. Lower refractive index than the cladding
+c. Lower refracted index than air
+d. Similar refractive index with the cladding
+       
+The correct answer is: Higher refractive index than the cladding
+Question 26
+       
+ Which theory states that the light wave behaves as if it consists of many tiny particles?
+Select one:
+a. Wave theory of light Incorrect
+b. Nyquist theory
+c. Quantum theory
+       
+The correct answer is: Quantum theory
+Question 27
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+_________ is dependent upon the detector material, the shape of the electric field profile within the device.
+Select one:
+a. Excess avalanche noise factor
+b. Noise gradient
+c. SNR
+       
+The correct answer is: Excess avalanche noise factor
+Question 28
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ What type of fiber has the highest modal dispersion?
+Select one:
+a. Graded index mode
+b. Step-index multimode
+c. Step-index single mode
+d. Graded index multimode
+       
+The correct answer is: Step-index multimode
+Question 29
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The fiber should be________________ to avoid deterioration of the optical transmission characteristics resulting from mode-coupling-induced micro-bending.
+Select one:
+a. Coupled with plastic
+b. Smooth and in a steady state
+c. Free from irregular external pressure
+d. Large in diameter
+       
+The correct answer is: Free from irregular external pressure
+Question 30
+       
+ Total internal reflection takes place if the light ray strikes the interface at an angle with what relationship to the critical angle?
+Select one:
+a. Less than
+b. Equal to
+c. Zero
+d. Greater than Correct
+       
+The correct answer is: Greater than
+Question 31
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Multimode graded index fibers with wavelength of 0.85µm have numerical aperture of 0.29 have core/cladding diameter of ___________
+Select one:
+a. 85 µm/125 µm
+b. 62.5 µm/125 µm
+c. 100 µm/140 µm
+d. 50 µm/125µm
+       
+The correct answer is: 100 µm/140 µm
+Question 32
+       
+Only one path for light rays to take down the fiber
+Select one:
+a. Multimode
+b. Single mode Correct
+c. Graded index
+d. Step-index
+       
+The correct answer is: Single mode
+Question 33
+       
+The absorption coefficient of semiconductor materials is strongly dependent on __________
+Select one:
+a. Wavelength Correct
+b. Amount of light
+c. Amplitude
+d. Properties of material
+       
+The correct answer is: Wavelength
+Question 34
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Multimode graded index fibers have overall buffer jackets same as multimode step index fibers but have core diameters ___________
+Select one:
+a. Larger than multimode step index fibers
+b. Smaller than multimode step index fibers
+c. Same as that of multimode step index fibers
+d. Smaller than single mode step index fibers
+       
+The correct answer is: Smaller than multimode step index fibers
+Question 35
+       
+ Which type of fiber optic cable is best for very high speed data?
+Select one:
+a. multimode graded-index Incorrect
+b. single-mode step-index
+c. single-mode graded-index
+d. multimode step-index
+       
+The correct answer is: single-mode step-index
+Question 36
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A step index fiber has a coupling efficiency of 0.906 with uniform illumination of all propagation modes. Find the insertion loss due to lateral misalignment?
+Select one:
+a. 0.40 dB
+b. 0.95 dB
+c. 0.42 dB
+d. 0.62 Db
+       
+The correct answer is: 0.42 dB
+Question 37
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A digital optical fiber communication system requires a maximum bit-error-rate of 10-9. Find the average number of photons detected in a time period for a given BER.
+Select one:
+a. 26.2
+b. 19.7
+c. 21.2
+d. 20.7
+       
+The correct answer is: 20.7
+Question 38
+       
+How many types of optical detectors are available?
+Select one:
+a. One
+b. Two
+c. Three Correct
+d. Four
+       
+The correct answer is: Three
+Question 39
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Multimode step index fiber has ___________
+Select one:
+a. Large core diameter and small numerical aperture
+b. Small core diameter and large numerical aperture
+c. Small core diameter &amp; small numerical aperture
+d. Large core diameter &amp; large numerical aperture
+       
+The correct answer is: Large core diameter &amp; large numerical aperture
+Question 40
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ The term responsivity as it applies to a light detector is best described as
+Select one:
+a. the ratio of output current to input current
+b. the time required for the signal to go from 10 to 90 percent of maximum amplitude
+c. the ratio of the input power to output power
+d. the ratio of the diode output current to the input optical power
+       
+The correct answer is: the ratio of the diode output current to the input optical power
+Question 41
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Fiber bandwidth is generally specified as the
+Select one:
+a. Sum of the bandwidth and distance
+b. Difference of the bandwidth and distance
+c. Product of the bandwidth and distance
+d. Quotient of bandwidth and distance
+       
+The correct answer is: Product of the bandwidth and distance
+Question 42
+       
+For used in single-mode fiber __________ are used preferably.
+Select one:
+a. Erbium-doped fiber amplifier
+b. Brillouin fiber amplifier
+c. Raman fiber amplifier Incorrect
+d. Semiconductor optical amplifier
+       
+The correct answer is: Semiconductor optical amplifier
+Question 43
+       
+ Which color has the shortest wavelength of light?
+Select one:
+a. Green
+b. Blue
+c. Red Incorrect
+d. Yellow
+       
+The correct answer is: Blue
+Question 44
+       
+Which of the cable length has the highest attenuation?
+Select one:
+a. 95 ft Incorrect
+b. 5500 ft
+c. 2 km
+d. 1 km
+       
+The correct answer is: 2 km
+Question 45
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ The numerical aperture of a fiber if the angle of acceptance is 15 degrees, is
+Select one:
+a. 0.50
+b. 017
+c. 0.75
+d. 0.26
+       
+The correct answer is: 0.26
+Question 46
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+For a single mode optical cable with 0.25 dB/km loss, determine the optical power 100 km from a 0.1-mW light source.
+Select one:
+a. -15 dBm
+b. -35 dBm
+c. –25 dBm
+d. -45 dBm
+       
+The correct answer is: -35 dBm
+Question 47
+       
+How many types of sources of optical light are available?
+Select one:
+a. Four
+b. Two
+c. Three Correct
+d. One
+       
+The correct answer is: Three
+Question 48
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Multimode graded index fibers are manufactured from materials with ___________
+Select one:
+a. Lower purity
+b. Impurity as same as multimode step index fibers.
+c. Higher purity than multimode step index fibers.
+d. No impurity
+       
+The correct answer is: Higher purity than multimode step index fibers.
+Question 49
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In a single mode fiber, the losses due to lateral offset and angular misalignment are given by 0.20 dB and 0.46 dB respectively. Find the total insertion loss.
+Select one:
+a. 0.26 dB
+b. 0.66 dB
+c. 0.40 dB
+d. 0.38 dB
+       
+The correct answer is: 0.66 dB
+Question 50
+       
+_________________ materials are potentially superior to germanium.
+Select one:
+a. GaAs
+b. GaSb
+c. III – V alloys Correct
+d. Silicon
+       
+The correct answer is: III – V alloys
