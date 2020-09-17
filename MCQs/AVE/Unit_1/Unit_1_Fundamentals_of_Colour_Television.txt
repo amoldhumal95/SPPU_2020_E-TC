@@ -1,0 +1,1696 @@
+
+Unit I: Fundamentals of Colour Television
+
+
+1. Which of the following camera tube uses lead oxide (PbO) for the photoconductive target plate?
+A. Vidicon
+B. Plumicon
+C. Saticon
+D. Image Orthicon
+
+Answer: Option B-Plumicon
+
+2. Camera signal output without sync is called
+A. Black burst
+B. generator lock video
+C. composite video
+D. noncomposite video
+
+Answer: Option D- noncomposite video
+
+3. A low-contrast picture in which white seems flat and lacking in detail suggest
+A. low beam current
+B. high gain in the amplifier
+C. excessive gamma
+D. insufficient scanning width
+
+Answer: Option A- low beam current
+
+4. Which of the following camera tubes has minimum lag?
+A. Vidicon
+B. Plumbicon
+C. Saticon
+D. Iconoscope
+
+Answer: Option B- Plumbicon
+5. The part of the visible spectrum where camera pickup tubes have the greatest output is
+A. red
+B. blue
+C. yellow-green
+D. infrared
+
+Answer: Option C- yellow-green
+
+6. Precise scanning size and linearity are most important in
+A. a black-and-white camera
+B. a plumbicon
+C. a single-tube color pickup
+D. a saticon
+
+Answer: Option C- a single-tube color pickup
+
+7. Beam alignment magnets for the camera tube are adjusted while rocking which control?
+A. Optical focus
+B. Electrical focus
+C. Beam current
+D. Shading
+
+Answer: Option B- Electrical focus
+
+8.  A pulse-type waveform (such as television line pulse) is a modification of
+A. square wave
+B. rectangular wave
+C. sawtooth wave
+D. sine wave
+Answer: Option B- rectangular wave
+9. The main purpose of interlacing in television scanning is to
+A. reduce flicker
+B. brighten the TV picture
+C. sharpenpicture outline
+D. increase channel bandwidth
+Answer: OptionA-Reduce Flicker
+10.  If a TV picture has 525 lines and scanning rate is 30 pictures/second, time for scanning one line is second.
+A. 30/525
+B. 525/30
+C. 1/30 x 525
+D. 30 x 525
+Answer: OptionC-1/30 x 525
+Bottom of Form
+11. If there are 625 lines per TV picture, then lines per field are
+A.1250
+B.312.5
+C.625
+D.2500
+Answer: OptionB-312.5
+Bottom of Form
+________________________________________12.The function of a sync separator ma TV set is to separate the signals.
+A. video and sound
+B. video and line sync
+C. line sync and field sync
+D. sound and field sync
+
+Answer: OptionC- line sync and field sync
+13. The main function of electron gun in a cathode-ray tube is to ---- electrons.
+A. deflect
+B. produce
+C. size
+D. aspect
+ Answer: OptionB. produce
+14. In a CRT, focussing of electron beam is achieved by varying
+A. grid bias
+B. heater voltage
+C. voltage of first accelerating anode
+D. secondary accelerating voltage
+Answer: OptionD- secondary accelerating voltage
+Bottom of Form
+
+15. Intensity of the electron beam in a CRT can be controlled by varying voltage
+A. grid bias
+B. cathode
+C. heater
+D. accelerating
+
+Answer: OptionA-grid bias
+Bottom of Form
+16. The observe a portion of a waveform, we must use
+A. free-running oscilloscope
+B. triggered-sweep oscilloscope
+C. vectorscope
+D. cathode-ray tube
+Answer: Option B-triggered-sweep oscilloscope
+Top of Form
+17. Lissajous patterns obtained by an oscilloscope can be used to get
+A. phase information
+B. frequency of input signal
+C. both frequency and phase information
+D. voltage amplitude
+Answer => C. both frequency and phase information
+Top of Form
+18. The term wide-band as applied to an oscilloscope denotes the bandwidth of its
+A. vertical amplifier
+B. horizontal amplifier
+C. both vertical and horizontal amplifiers
+D. none of the above
+Answer => A. vertical amplifier
+Top of Form
+Bottom of Form
+________________________________________19. When a complete oscilloscope is used as a vectorscope, with the input signals coupled directly to CRT deflection plates, the deflection plates must be effectively isolated from
+A. vertical amplifier only
+B. horizontal amplifier only
+C. both vertical and horizontal amplifiers
+D. accelerating anodes
+Answer => C-both vertical and horizontal amplifiers
+Top of Form
+Bottom of Form
+________________________________________20.  An oscilloscope is generally used to measure the value of .......... voltage
+A. dc
+B. rms ac
+C. peak-to-peak ac
+D. average value of ac
+Answer => C- peak-to-peak ac
+Top of Form
+Bottom of Form
+________________________________________21. The purpose of a synch oscilloscope is to
+A. set the intensity level
+B. control brightness
+C. set the focus
+D. lock the signal
+Answer => D- lock the signal
+
+22. The length of the sweep screen is controlled by
+A. sync control
+B. sweep selector
+C. horizontal gain
+D. vertical gain
+
+Answer => C- horizontal gain
+Top of Form
+Bottom of Form
+
+23. Both dot and line patterns on a TV screen are produced by
+A. sine waves
+B. rectangular waves
+C. sawtooth waves
+D. pulse waveforms
+
+Answer => D- pulse waveforms
+Top of Form
+Bottom of Form
+24. White-dot and cross-hatch generators are chiefly used for
+A. convergence of colour picture tubes
+B. linearity of colour picture tubes
+C. intensity tests of colour picture tubes
+D. generation of colour bar patterns
+Answer => A- convergence of colour picture tubes
+Bottom of Form
+
+25. White-dot and cross-hatch patterns are commonly called .......... patterns.
+A. linearity
+B. colour bar
+C. convergence
+D. background
+
+Answer => C- convergence
+
+26.  Colour bar generators are used mainly to check the operation of the ........... in colour TV receivers.
+A. number of chroma bars
+B. chroma circuitry
+C. video
+D. RF
+
+Answer => B- chroma circuitry
+27.  A vectorgram is useful because it shows at a glance whether the operation of the .......... is normal.
+A. RF amplifier
+B. horizontal amplifier
+C. chroma demodulator
+D. video amplifier
+Answer => C- chroma demodulator
+Top of Form
+Bottom of Form
+28. The control that adjusts the frequency of the horizontal sweep oscillator in an oscilloscope is
+A. sync selector
+B. Z-axis
+C. horizontal gain
+D. sweep control
+Answer => D- sweep control
+Bottom of Form
+
+29. In a TV receiver set, sound and video signals are separated at the
+A. video detector
+B. video amp
+C. sync separator
+D. IF stage
+
+Answer => A- video detector
+Top of Form
+Bottom of Form
+________________________________________30. The vertical and horizontal pulses in a TV set are separated at the
+A. AFC
+B. sync amp
+C. sync separator
+D. AGC
+Answer => C- sync separator
+
+31. A single horizontal line across the middle of a TV screen indicates trouble in
+A. horizontal section
+B. vertical section
+C. tuner
+D. video section
+
+Answer => B- vertical section
+
+32. The three primary colours in the chrominance signal of a colour TV are
+A. red, green, orange
+B. red, green, blue
+C. blue, green, magenta
+D. yellow, green, cyan
+
+Answer => B. red, green, blue
+
+33. Absence of one colour in a colour picture indicates
+A. shorting of one of the guns in picture
+B. defect in colour video amp
+C. either (a) or (b)
+D. none of the above
+
+Answer => C- either (a) or (b)
+34. When referring to colour TV receivers, ATC stands for
+A. automatic tone control
+B. automatic tint control
+C. automatic television control
+D. automatic tuner control
+
+Answer => B- automatic tint control
+
+Bottom of Form
+35. Tropospheric scatter is used with frequencies in the following range :
+A. H.F.
+B. V.H.F.
+C. U.H.F.
+D. U.F.
+Answer => C- U.H.F.
+Bottom of Form
+
+36. The TV broadcasting in India is done in
+A. VHF band I
+B. VHF band I and II
+C. VHF band I. H and III
+D. VHF band I and II
+Answer => D- VHF band I and II
+Top of Form
+
+Bottom of Form
+37. The signals sent by the TV transmitter to ensure correct scanning in the receiver are called
+A. sync
+B. chroma
+C. luminance
+D. video
+Answer => A- sync
+
+38. The line frequency of TV system in India is ? Hz.
+A.625
+B.15,625
+C.15,750
+D.15,950
+Answer => B-15,625
+Top of Form
+Bottom of Form
+39. A complete television signal consists of
+A. sync pulses and a sound signal
+B. camera signal
+C. a video signal and sync pulses
+D. a composite video signal and sound signal
+Answer => D- a composite video signal and sound signal
+Top of Form
+Bottom of Form
+
+40. The number of frames per second in our TV system is
+A.50
+B.24
+C.25
+D.49
+Answer => C-25
+Top of Form
+Bottom of Form
+41. Interlacing is used in TV frames to
+A. produce illusion of motion
+B. ensure scanning of all lines
+C. avoid flicker
+D. avoid Humming
+Answer => C- avoid flicker
+Top of Form
+Bottom of Form
+42. The separation of sound and picture carriers in our TV system is ? MHz.
+A.5.5
+B.4.5
+C.6
+D.5
+Answer => A-5.5
+Top of Form
+Bottom of Form
+
+43.  TV broadcasting system in India is as per CCIR
+A. system B
+B. system I
+C. system M
+D. system X
+
+Answer => A-System B
+
+Top of Form
+Bottom of Form
+44. The best viewing distance for a TV picture is ____ times the picture height
+A. 2 to 4.
+B. 4 to 8
+C. 8 to 10
+D. 10 to12
+
+Answer => B- 4 to 8
+Top of Form
+Bottom of Form
+45. The components signal are
+A. camera signal
+B. blanking pulses
+C. sync pulses
+D. all of the above
+Answer => D- all of the above
+
+46. TV transmitters of satellites USE
+A. image orthicon
+B. vidicon
+C. CRT
+D. photoelectric cell
+
+Answer => B- vidicon
+Bottom of Form
+
+47. Y-signals are also called -- signals.
+A. chroma
+B. luminance
+C. colour-difference
+D. multiplexed
+
+Answer => B- luminance
+
+48. Frequency interleaving occurs if subcarrier frequency is an
+A. odd multiple of half the line frequency
+B. odd multiple of line frequency
+C. even multiple of line frequency
+D. even multiple of half the line frequency
+
+Answer => A- odd multiple of half the line frequency
+Bottom of Form
+49. The colour killer section is operated by the
+A. AFC section
+B. subcarrier oscillator
+C. picture detector
+D. chroma demodulators
+Answer => B- subcarrier oscillator
+Bottom of Form
+
+50.  In TV system the frame frequency is
+A.100
+B.60
+C.50
+D.25
+
+Answer => D-25
+Top of Form
+Bottom of Form
+51. In India the width of one channel is
+A. 1 MHz
+B. 2 MHz
+C. 5 MHz
+D. 7 MHz
+Answer => D-7 MHz
+Bottom of Form
+
+52.  In a TV the voltage given to deflection coil is
+A. sine wave
+B. square pulse
+C. saw tooth type
+D. trapezoidal
+
+Answer => D
+
+53. In TV the line blanking period is
+A. slightly less than the horizontal retrace
+B. slightly ore than the horizontal retrace
+C. exactly equal to the horizontal retrace
+D. none of the above
+
+Answer => A- slightly less than the horizontal retrace
+Bottom of Form
+
+54. According CCIR standards horizontal scanning frequency is
+A. 15,625 Hz
+B. 15,750 Hz
+C. 50, Hz
+D. 60 Hz
+
+Answer => A-15,625 Hz
+
+Top of Form
+Bottom of Form
+55. Line blanking period is
+A. equal to the horizontal retrace
+B. slightly greater than the horizontal retrace
+C. slightly less than the horizontal retrace
+D. none of these
+
+Answer => B- slightly greater than the horizontal retrace
+
+
+56. The part of the visible spectrum where camera pickup tubes have the greatest output is
+A. red
+B. blue
+C. yellow-green
+D. infrared
+
+Answer: Option C- yellow-green
+
+ 57. ----is more important for the gamma correction for the camera tube.
+A. Color
+B. Monochrome
+C. Both Color and monochrome
+D. Either of Color or monochrome
+
+Answer: Option A-Color
+
+58. In gamma correction the is stretched by the picture tube.
+A. Black
+B. gray
+C. white
+D. red
+Answer: Option C-white
+
+59. What is the typical anode voltage for a 25-in color picture tube?
+A. 10 kV
+B. 30 kV
+C. 1 kV
+D. 30 V
+Answer: Option B-30kV
+
+60. The coils above and below the electron beam of the picture tube are for .
+A. V scanning
+B. H scanning
+C. Either V or H scanning
+D. None of these
+Answer: Option B- H scanning
+
+61. Neck shadow result when the deflection yoke is .
+A. too near back
+B. too near forward
+C. too far back
+D. too far forward
+Answer: Option C- too far back
+
+62. The R, G, and B screen grid adjustments are set for in the picture.
+A. visual cutoff
+B. white highlights
+C. brightness control
+D. gray-scale tracking
+Answer: Option A- visual cutoff
+
+63. In a TV receiver set, sound and video signals are separated at the
+A. video detector
+B. video amp
+C. sync separator
+D. IF stage
+Answer => A- video detector
+Top of Form
+Bottom of Form
+64. The vertical and horizontal pulses in a TV set are separated at the
+A. AFC
+B. sync amp
+C. sync separator
+D. AGC
+Answer => C- sync separator
+65. When in a TV receiver set, both sound and picture are weak and distorted, the problem is most likely to be in the
+A. AFC
+B. FM detector
+C. tuner
+D. video amp
+Answer => C- Tuner
+Top of Form
+Bottom of Form
+66. When a weak TV picture is accompanied by normal sound and bright raster, the probable fault lies in
+A. AGC
+B. video section
+C. AF amp
+D. sync amp
+Answer => B-video section
+Top of Form
+67. Lack of raster in a TV receiver set often indicates no
+A. TV signal
+B. video signal
+C. AGC
+D. high voltage
+Answer => D-High Voltage
+Top of Form
+Bottom of Form
+________________________________________68. If picture in a TV monitor is snowy in appearance, the defect is likely to be in
+A. tuner
+B. antenna cable
+C. RF amplifier
+D. any one of the above
+Answer => D- any one of the above
+
+69. If, in a colour TV set, picture tends to be one colour and also tends to bloom out white at times, the problem is likely to be in
+A. demodulator stage
+B. burst separator
+C. colour oscillator
+D. colour killer
+Answer => A- demodulator stage
+Top of Form
+Bottom of Form
+________________________________________70.  If a person's face appears to be either too long or too short on a TV picture, you should adjust
+A. vertical height control
+B. AGC
+C. vertical linearity control
+D. pin phase and pin amp controls
+Answer => C-vertical linearity control
+
+
+71. Indicate the false statement. Modulation is used to
+A. reduce the bandwidth used
+B. separate differing transmissions
+C. ensure that intelligence may be transmitted over long distances
+D. allow the use of practicable antennas
+Answer => A- reduce the bandwidth used
+Top of Form
+Bottom of Form
+72.  One of the following is an indirect way of generating FM. This is the ?modulator.
+A. reactance tube
+B. varactor diode
+C. Armstrong
+D. reactance transistor
+Answer => C- Armstrong
+73.  Tropospheric scatter is used with frequencies in the following range :
+A. H.F.
+B. V.H.F.
+C. U.H.F.
+D. U.F.
+Answer => C- U.H.F.
+
+74. In an FM receivet, the channel bandwidth is around ? kHz.
+A.10
+B.20
+C.75
+D.200
+Answer => D-200
+Top of Form
+Bottom of Form
+
+75.  In relation to TV receiver equipment, 'rabbit ears' refers to
+A. shape of TV receiver cabinet
+B. shape of test pattern displayed on the screen
+C. picture distortion
+D. receiving antenna
+Answer => D- receiving antenna
+Top of Form
+Bottom of Form
+________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit II: Digital TV and Display Devices
+
+
+1) The down link frequency in the C band transponder is  
+(A)  6 GHz  (B)  4 GHz
+(C)  14 GHz  (D)  11 GHz  ANS: B
+
+2).  The carrier to noise ratio for a satellite depends upon  
+(A)  Effective Isotropic Radiated power  
+(B)  Bandwidth.  
+(C)  Free space path losses  
+(D)  All of them  ANS: D
+
+3). The multiple access technique suitable only for digital transmission is  
+(A)  TDMA   (B)FDMA 
+(C)Both (A)and (B)    (D)Packet Access ANS: A
+
+ 4) The LCD digital display that is based on
+ A.Radiation of light
+   B.Reflection of light
+   C.Emission of light
+   D.Transmission of lightANS:B
+
+5) The typical value of thickness of liquid layer of LCD's is ...... mm
+  A.0.22
+   B.2.2
+   C.0.025
+   D.0.035                                                                ANS:C
+
+6) The contrast of liquid crystal display (LCD)
+A.Will increase if the back plate is more reflective
+   B.Will decrease if the back plate is more reflective
+   C.Will increase if the back plate is less reflective
+   D.Will decrease if the back plate is less reflective   ANS:C
+ 7).In a TV receiver, the blanking pulses are fed to
+ the horizontal deflector plates
+ the vertical deflector plates
+ the control grid of the electron gun the cathode
+ the cathode                                                                    ANS:C
+
+
+8) .In TV receiver, the synchronizing pulses are fed to
+ The horizontal and vertical deflector plates of the picture tube
+ the control grid
+ the cathode
+ the electron gunANS:A
+ 9)In a TV receiver, the picture signals are appliedto
+ the vertical deflector plates
+ the horizontal deflector plates
+ the control grid of the electron gun
+
+
+ the filament of the electron gunANS:D
+
+10).In TV transmission, the sound waves are transmitted by
+ phase modulation
+ frequency modulation
+ amplitude modulation
+ amplitude or phase modulationANS:B
+
+11)A DV camcorder is:
+A. Capable of creating video in HDTV
+B. Used to create digital video
+C. Limited to the Direct Video format
+D. A Denon Video brand product
+Answer: Option A
+
+
+
+
+
+12.In TV receiver, the synchronizing pulses are fed to
+ The horizontal and vertical deflector plates of the picture tube the control grid the cathode the electron gun
+
+	
+	
+	
+ 
+
+14. What are the four electromechanical devices retained while making an avionics update for old aircraft?
+a) Vertical speed indicator, airspeed indicator, artificial horizon and heading indicator
+b) Altimeter, airspeed indicator, artificial horizon and angle of attack indicator
+c) Altimeter, airspeed indicator, turns coordinator and heading indicator
+d) Altimeter, airspeed indicator, artificial horizon and heading indicator
+View Answer
+Answer: d
+
+15. OLED display is better than LED because ________
+a) They are cheaper
+b) They have high brightness
+c) Do not require any illuminating source
+d) Easy to manufacture
+View Answer
+Answer: c
+16. What are the 5 primary mechanical displays, a Primary Flight Display (PFD) can replace?
+a) Altimeter, turn coordinator, vertical speed indicator, artificial horizon and heading/compass indicator
+b) Altimeter, vertical speed indicator, artificial horizon, heading/compass indicator and Mach meter
+c) Altimeter, vertical speed indicator, artificial horizon, heading/compass indicator and landing gear position
+d) Altimeter, turn coordinator, artificial horizon, heading/compass indicator and Mach meter
+View Answer
+Answer: b
+
+17. Why are mechanical instruments retained when high tech LED displays are available?
+a) LED displays are costly
+b) LED Displays cannot withstand the flight environment conditions
+c) Probability of failure
+d) Accuracy
+View Answer
+Answer: c
+
+18. Which of the following is false with respect to multi-function LCD displays in cockpits?
+a) High resolution
+b) More information to be displayed
+c) Bigger and customizable display
+d) Take more space in cockpits
+View Answer
+Answer: d
+
+19. How many Primary Flight Displays are present in typical civil aircraft cockpit?
+a) 1
+b) 2
+c) 4
+d) 3
+View Answer
+Answer: b
+
+20. Which one of the following is false with respect to electromechanical instruments?
+a) High cost
+b) Require skilled labor for repair
+c) Accurate measurements
+d) Inevitable wear
+View Answer
+Answer: c
+
+21. What are the standby instruments that are combined in a Solid state integrated standby instrument?
+a) Altimeter, vertical speed indicator, artificial horizon
+b) Altimeter, airspeed indicator
+c) Altimeter, airspeed indicator, artificial horizon
+d) Altimeter, turn coordinator, artificial horizon, heading/compass indicator and Mach meter
+View Answer
+Answer: c
+
+22. What is the operating voltage of Solid-state integrated standby instrument?
+a) 11V DC
+b) 28V DC
+c) 5V DC
+d) 115V DC
+View Answer
+Answer: b
+
+23. The solid-state instruments are of higher accuracy than mechanical systems.
+a) True
+b) False
+View Answer
+Answer: a
+
+24.The colour of emitted light from LED depends on
+
+   A.Construction of LED, that is physical dimensions
+   B.Number of available carriers
+   C.Type of semiconductor material used
+   D.Number of recombinations taking place
+Answer: C.Type of semiconductor material used
+
+25. The advantage of LED is
+
+   A.Long life
+   B.Fast on-off switching
+   C.Low operating voltage
+   D.All of the above
+
+✔ View Answer D.All of the above
+26. The typical value of power consumption of LED is
+
+   A.Around 10 mW
+   B.In between 15 mW and 20 mW
+   C.In between 30 mW and 40 mW
+   D.In between 35 mW and 50 mW
+
+✔ View Answer B.In between 15 mW and 20 mW
+
+29. When forward biased, LED emits light because of
+
+   A.Recombination of carriers
+   B.Light generated in breaking the covalent bonds
+   C.Light produced by collisions
+   D.All of the above reasons
+
+✔ View Answer
+
+A.Recombination of carriers
+
+30. The LEDs made with GaAs emit light in the
+
+   A.Yellow region
+   B.Infrared region
+   C.Orange region
+   D.Red visible region
+
+
+ANS:B.Infrared region
+30. What is the use of a laser beam in image formation?
+a) Triangulation system for measuring system
+b) Reduce glare of image
+c) Controls contrast of image
+d) Controls brightness of image
+View Answer
+Answer: a
+
+31. Where is backlighting is best suited?
+a) Simple silhouette image is required to obtain minimum image contrast
+b) Certain key features on the surface of the object are to be inspected
+c) Simple silhouette image is required to obtain maximum image contrast
+d) Three-dimensional feature is being inspected
+View Answer
+Answer: c
+
+32. Which light is preferred if three dimensional features are being inspected?
+a) Front lighting
+b) Side lighting
+c) Backlighting
+d) Any lighting is suited
+View Answer-C
+33. Why do CCD or CID cameras are used?
+a) To generate the electronic signal representing the image
+b) To generate image’s hard copy
+c) To determine lighting of the image
+d) To capture heat signature
+View Answer
+Answer: a
+
+34. Where is the Vidicon Camera used?
+a) Open-circuit television systems
+b) In Image processing
+c) In image analysis
+d) Closed-circuit television systems
+View Answer
+Answer: d
+
+35. What is used in solid state cameras?
+a) Image sensor IC
+b) CMOS image sensors
+c) Charge coupled device (CCD) image sensors
+d) Digital camera image sensor
+View Answer
+36. How many detector elements are present in a matrix array solid state camera?
+a) 156 x 156 per array
+b) 216 x 216 per array
+c) 116 x 116 per array
+d) 256 x 256 per array
+View Answer
+Answer: d
+
+37. What is the common rate of an image forming in a camera?
+a) 20 images per second
+b) 30 images per second
+c) 25 images per second
+d) 50 images per second
+View Answer
+38. What is windowing?
+a) Technique used to concentrate the processing in a desired area of an image
+b) Technique used for image restoration
+c) Technique for image analysis
+d) Technique to describe and measure the properties of image features
+View Answer
+Answer: a
+
+39. Which of the following method is used to reduce processing of image?
+a) Triangulation technique
+b) Digital imaging technique
+c) Run length encoding
+d) Stereo vision
+View Answer
+Answer: c
+
+40. What is stadimetry?
+a) Direct imaging technique in which distance is judged by apparent object distance
+b) Indirect imaging technique in which distance is judged by apparent object distance
+c) Direct imaging technique in which distance is judged by actual distance of the object
+d) Indirect imaging technique in which distance is judged by actual distance of the object
+View Answer
+Answer: a
+
+41. Which method is not used to determine object orientation?
+a) Equivalent ellipse
+b) Triangulation technique
+c) Structured light method
+d) Light intensity distribution
+View Answer
+Answer: b
+
+42. Which method is used for interpreting images?
+a) Light intensity distribution
+b) Stereo vision
+c) Optical computing
+d) Template matching
+View Answer
+Answer: d
+
+43. What do you mean by image interpretation?
+a) Identification of type of image
+b) Identification of an object based on recognition of its image
+c) Identification of color content of image
+d) Identification of each pixel of image
+View Answer
+Answer: b
+
+
+
+
+
+
+
+
+				UNIT3: HDTV
+1.	The satellite that is used as a relay to extend communication distance is called as _______b___
+a) Relay satellites
+b) Communication satellites
+c) Repeater satellites
+d) Geosynchronous satellites
+Ans:b
+
+
+2.	The transmitter-receiver combination in the satellite is known as a __c_____
+a) Relay
+b) Repeater
+c) Transponder
+d) Duplexer
+Ans: c
+3.	
+3. The downlink frequency is lower than the uplink frequency.
+a) True
+b) False
+Ans: a
+4. What is the reason for carrying multiple transponders in a satellite?
+a) More number of operating channel
+b) Better reception
+c) More gain
+d) Redundancy
+Ans: a
+5. Why are VHF, UHF, and microwave signals used in satellite communication?
+a) More bandwidth
+b) More spectrum space
+c) Are not diffracted by the ionosphere
+d) Economically viable
+Ans: c
+6. What is the reason for shifting from c band to ku band in satellite communication?
+a) Lesser attenuation
+b) Less power requirements
+c) More bandwidth
+d) Overcrowding
+d
+7. Which of the following bands cannot be used for satellite communication?
+a) MF
+b) Ku
+c) X
+d) C
+a
+8. What is the maximum theoretical data rate if a transponder is used for binary transmission and has a bandwidth of 36MHz?
+a) 32Mpbs
+b) 72Mpbs
+c) 36Mpbs
+d) 12Mpbs
+B
+9.  With reference to Direct to Home (DTH) satellite transmission, what is the difference between C-Band transmission and Ku-Band Transmission?
+a. The uplink and downlink Frequency range of the C-Band is much smaller than the Ku-Band
+b. A larger disc is needed for Ku-Band transmissions compared to C-band transmissions
+c. C-band is generally not interfered with the microwave links and other technologies
+A
+10. In HDTV both the video and the audio signals must be digitized by A/D converters and transmitted ______ to the receiver.
+a. Serially
+b. Parallel
+c. Reliably 
+d. Manually 
+A
+
+11. In HDTV transmitter, the luminance sampling rate is _____, and the chroma sampling rate is _______.
+a. 4.2 MHz
+b. 14.3 MHz
+c. 6 MHz
+d. 7.15 MHz
+B & D
+
+12. ______ is the data compression method used in HDTV.
+a. JPEG
+b.Bit map
+c. MPEG-4
+d MPEG-2
+Ans-d
+
+13 In HDTV transmitter, the random serial signal is passed through a Reed-Solomon (RS) error detection and correction circuit. This circuit ______to the data stream so that transmission errors can be detected at the receiver and corrected.
+a.	Adds extra bits
+b.	Subtracts the extra bits 
+c.	Does not change the bit
+d.	Maintains the bits
+Ans:a
+
+14. The modulation scheme used in HDTV is _____
+a. 2-VSB
+b. 4-VSB
+c. 8-VSB
+d. 16-VSB
+
+Ans:c
+
+15. An HDTV receiver picks up the _______signal.
+a. original
+b. changed
+c. fade
+d. composite
+
+Ans d
+
+16. DTH stands for
+a. Door to home
+b. Detect to home
+c. Direct to Home
+d. Deliver to home
+Ans c
+ 
+________________________________________20.  An oscilloscope is generally used to measure the value of .......... voltage
+A. dc
+B. rms ac
+C. peak-to-peak ac
+D. average value of ac
+Answer => C- peak-to-peak ac
+Top of Form
+Bottom of Form
+________________________________________21. The purpose of a synch oscilloscope is to
+A. set the intensity level
+B. control brightness
+C. set the focus
+D. lock the signal
+Answer => D- lock the signal
+
+22. The length of the sweep screen is controlled by
+A. sync control
+B. sweep selector
+C. horizontal gain
+D. vertical gain
+
+Answer => C- horizontal gain
+Top of Form
+Bottom of Form
+
+23. Both dot and line patterns on a TV screen are produced by
+A. sine waves
+B. rectangular waves
+C. sawtooth waves
+D. pulse waveforms
+
+Answer => D- pulse waveforms
+Top of Form
+Bottom of Form
+24. White-dot and cross-hatch generators are chiefly used for
+A. convergence of colour picture tubes
+B. linearity of colour picture tubes
+C. intensity tests of colour picture tubes
+D. generation of colour bar patterns
+Answer => A- convergence of colour picture tubes
+Bottom of Form
+
+25. White-dot and cross-hatch patterns are commonly called .......... patterns.
+A. linearity
+B. colour bar
+C. convergence
+D. background
+
+Answer => C- convergence
+
+26.  Colour bar generators are used mainly to check the operation of the ........... in colour TV receivers.
+A. number of chroma bars
+B. chroma circuitry
+C. video
+D. RF
+
+Answer => B- chroma circuitry
+27.  A vectorgram is useful because it shows at a glance whether the operation of the .......... is normal.
+A. RF amplifier
+B. horizontal amplifier
+C. chroma demodulator
+D. video amplifier
+Answer => C- chroma demodulator
+Top of Form
+Bottom of Form
+28. The control that adjusts the frequency of the horizontal sweep oscillator in an oscilloscope is
+A. sync selector
+B. Z-axis
+C. horizontal gain
+D. sweep control
+Answer => D- sweep control
+Bottom of Form
+
+29. In a TV receiver set, sound and video signals are separated at the
+A. video detector
+B. video amp
+C. sync separator
+D. IF stage
+
+Answer => A- video detector
+Top of Form
+Bottom of Form
+________________________________________30. The vertical and horizontal pulses in a TV set are separated at the
+A. AFC
+B. sync amp
+C. sync separator
+D. AGC
+Answer => C- sync separator
+
+31. A single horizontal line across the middle of a TV screen indicates trouble in
+A. horizontal section
+B. vertical section
+C. tuner
+D. video section
+
+Answer => B- vertical section
+
+32. The three primary colours in the chrominance signal of a colour TV are
+A. red, green, orange
+B. red, green, blue
+C. blue, green, magenta
+D. yellow, green, cyan
+
+Answer => B. red, green, blue
+
+33. Absence of one colour in a colour picture indicates
+A. shorting of one of the guns in picture
+B. defect in colour video amp
+C. either (a) or (b)
+D. none of the above
+
+Answer => C- either (a) or (b)
+34. When referring to colour TV receivers, ATC stands for
+A. automatic tone control
+B. automatic tint control
+C. automatic television control
+D. automatic tuner control
+
+Answer => B- automatic tint control
+
+Bottom of Form
+35. Tropospheric scatter is used with frequencies in the following range :
+A. H.F.
+B. V.H.F.
+C. U.H.F.
+D. U.F.
+Answer => C- U.H.F.
+Bottom of Form
+
+36. The TV broadcasting in India is done in
+A. VHF band I
+B. VHF band I and II
+C. VHF band I. H and III
+D. VHF band I and II
+Answer => D- VHF band I and II
+Top of Form
+
+Bottom of Form
+37. The signals sent by the TV transmitter to ensure correct scanning in the receiver are called
+A. sync
+B. chroma
+C. luminance
+D. video
+Answer => A- sync
+
+38. The line frequency of TV system in India is ? Hz.
+A.625
+B.15,625
+C.15,750
+D.15,950
+Answer => B-15,625
+Top of Form
+Bottom of Form
+39. A complete television signal consists of
+A. sync pulses and a sound signal
+B. camera signal
+C. a video signal and sync pulses
+D. a composite video signal and sound signal
+Answer => D- a composite video signal and sound signal
+Top of Form
+Bottom of Form
+
+40. The number of frames per second in our TV system is
+A.50
+B.24
+C.25
+D.49
+Answer => C-25
+Top of Form
+Bottom of Form
+41. Interlacing is used in TV frames to
+A. produce illusion of motion
+B. ensure scanning of all lines
+C. avoid flicker
+D. avoid Humming
+Answer => C- avoid flicker
+Top of Form
+Bottom of Form
+42. The separation of sound and picture carriers in our TV system is ? MHz.
+A.5.5
+B.4.5
+C.6
+D.5
+Answer => A-5.5
+Top of Form
+Bottom of Form
+
+43.  TV broadcasting system in India is as per CCIR
+A. system B
+B. system I
+C. system M
+D. system X
+
+Answer => A-System B
+
+Top of Form
+Bottom of Form
+44. The best viewing distance for a TV picture is ____ times the picture height
+A. 2 to 4.
+B. 4 to 8
+C. 8 to 10
+D. 10 to12
+
+Answer => B- 4 to 8
+Top of Form
+Bottom of Form
+45. The components signal are
+A. camera signal
+B. blanking pulses
+C. sync pulses
+D. all of the above
+Answer => D- all of the above
+
+Unit IV: Advanced TV Systems
+
+
+
+1. Which of the following is not a characteristic of 3G network?
+a) Communication over VoIP
+b) Unparalleled network capacity
+c) Multi-megabit Internet access
+d) LTE based network
+
+2. What is the term used by ITU for a set of global standards of 3G systems?
+a) IMT 2000
+b) GSM
+c) CDMA
+d) EDGE
+
+3. Which of the following leads to evolution of 3G networks in CDMA systems?
+a) IS-95
+b) IS-95B
+c) CdmaOne
+d) Cdma2000
+
+5. What is 3GPP?
+a) Project based on W-CDMA
+b) Project based on cdma2000
+c) Project based on 2G standards
+d) Project based on 2.5G standards
+
+6. What is the average uploading speed of 4G LTE network?
+a) 1-3 Gbps
+b) 2-5 Gbps
+c) 1-3 Mbps
+d) 2-5 Mbp
+
+7. Which of the following is not a part of the characteristic of 4G network?
+a) Multirate management
+b) Fully converged services
+c) Software dependency
+d) Diverse user devices
+
+8. In TV transmission, picture signal is ________ modulated.
+a) DSB-SC
+b) VSB
+c) SSB-SC
+d) Pulse
+
+9. In TV transmission, sound signal is ________ modulated.
+a) Phase
+b) Pulse
+c) Frequency
+d) Amplitude
+
+10. A wireless network uses ___ waves to transmit signals. | Wifi mcqs
+A. mechanical
+B. radio
+C. sound
+
+ 
+11. What device sends and receives radio signals in a wireless network? | Wifi mcqs
+A.	modem
+B.	digital translator
+C.	router
+
+ 
+12. At what frequencies do Wi-Fi radios make transmissions? | Wifi mcqs
+A.	3 GHz or 8 GHz
+B.	2.4 GHz or 5 GHz
+C.	2 GHz or 7.3 GHz
+
+ 
+13.______ Of the following networking standards, which is not used in Wi-Fi data transmissions? | Wifi mcqs
+A.	802.11g
+B.	802.11q
+C.	802.11b
+Ans: B
+ 
+14. Which networking standard is the slowest and least expensive? | Wifi mcqs
+A.	802.11a
+B.	802.11b
+C.	802.11n
+
+ 
+15. Which networking standard was the first to use orthogonal frequency-division multiplexing (OFDM) as a coding technique? | Wifi mcqs
+A.	802.11g
+B.	802.11a
+C.	802.11n
+
+16.  A pulse-type waveform (such as television line pulse) is a modification of
+A. square wave
+B. rectangular wave
+C. sawtooth wave
+D. sine wave
+
+17. The main purpose of interlacing in television scanning is to
+A. reduce flicker
+B. brighten the TV picture
+C. sharpenpicture outline
+D. increase channel bandwidth
+
+18.  If a TV picture has 525 lines and scanning rate is 30 pictures/second, time for scanning one line is second.
+A. 30/525
+B. 525/30
+C. 1/30 x 525
+D. 30 x 525
+
+19. If there are 625 lines per TV picture, then lines per field are
+A.1250
+B.312.5
+C.625
+D.2500
+
+20. The function of a sync separator ma TV set is to separate the signals.
+A. video and sound
+B. video and line sync
+C. line sync and field sync
+D. sound and field sync
+
+21. The main function of electron gun in a cathode-ray tube is to ---- electrons.
+A. deflect
+B. produce
+C. size
+D. aspect
+
+22. In a CRT, focussing of electron beam is achieved by varying
+A. grid bias
+B. heater voltage
+C. voltage of first accelerating anode
+D. secondary accelerating voltage
+
+ 23.The architecture of hardware, software, content and data is known as:
+     A. E-commerce infrastructure
+      B.E-business web structure
+      C.E-business infrastructure
+      D.None of the above
+	
+24. The level of e-business infrastructure which refers to information processed and displayed is:
+         A. Storage/physical
+         B.Infrastructure
+         C.Application content
+         D.Processing
+
+25.The level of e-business infrastructure which refers to computation and logic is:
+         A.       Storage/physical
+        B.	Infrastructure
+        C.	Application content
+        D.	Processing
+	
+26.A service provider that manages the server used to host an organisation website and its connections to the Internet backbones is known as:
+  A.Internet service provider
+  B.Client server
+  C.Hosting provider
+  D.All of the above
+
+27.The website for a company is hosted on a:
+        A. Web server
+        B.Web infrastructure
+        C.Web client    
+        D.Web page
+
+28. Which of the following is the most widespread video streaming service?
+a) Flickr
+b) Dailymotion
+c) Metacafe
+d) All of the mentioned
+
+29. Which of the following is the largest video sharing site?
+a) YouTube
+b) YuMe
+c) Yahoo Video
+d) All of the mentioned
+
+30. Point out the wrong statement.
+a) Veoh serves TV and movie content from major studios, along with uploaded user content
+b) UStream.tv is a live video event streaming service
+c) RuTube is a popular Japanese video-sharing site
+d) None of the mentioned
+
+31. Which of the following application is an example of TV over the Internet?
+a) Hulu.com
+b) MySpace
+c) Comcast
+d) None of the mentioned
+
+32. Which of the following movie subscription service has moved to the cloud?
+a) AOL
+b) Netflix
+c) XBox
+d) None of the mentioned
+
+33.What is the name of the device that allows four surveillance camera images to be viewed on a monitor at the same time?
+A.	A video splitter
+B.	A modulator
+C.	A quad switcher
+D.	A photoelectric sensor
+	
+34.What is the term used to describe the amount of light required to obtain a reasonable image with a surveillance video camera?
+A.	Lux rating
+B.	Candlepower rating
+C.	Resolution
+D.	Pixels
+
+35. Data acquisition system acquire data from _____________
+A.	Transducers
+B.	Flip flop
+C.	 Memory
+D.	 None of the mentioned
+
+36. SBOD stands for __________________
+A.	Status bunch of disc
+B.	Switched bunch of disc
+C.	 Status bunch of display
+D.	 None of the mentioned
+
+37. Data recorders acquire data from ________________
+A.	Transducers
+B.	Sensors
+C.	Both transducers and sensors
+D.	 None of the mentioned
+
+38. RAID stands for ___________________
+A.	Recorded Array of Inexpensive Disc
+B.	Redundant Array of Inexpensive Disc
+C.	Redundant Array of Intelligent Disc
+D.	Redundant Array of Inexpensive Display
+
+39. Which of the following is correct for SBOD?
+A.	Based on fibre channel
+B.	Based on RF technology
+C.	Based on Fibre and RF
+D.	None of the mentioned
+
+40. Which of the following represents the storage capability of flip-flop?
+A.	1 bit
+B.	1 byte
+C.	1 kilo bit
+D.	1 kilo byte
+
+41. What is the full form of UMTS?
+A.	Universal Mobile Telephone System
+B.	Ubiquitous Mobile Telephone System
+C.	Ubiquitous Mobile Telemetry System
+D.	Universal Machine Telemedicine System
+
+42. UMTS use which multiple access technique?
+A.	CDMA
+B.	 TDMA
+C.	 FDMA
+D.	 SDMA
+
+43. UMTS does not has backward compatibility with ____________
+A.	GSM
+B.	IS-136
+C.	IS-95
+D.	GPRS
+
+44. UMTS is also known as _____________
+A.	IS-95
+B.	GPRS
+C.	 CdmaOne
+D.	 W-CDMA
+
+45. What is the chip rate of W-CDMA?
+A.	1.2288 Mcps
+B.	3.84 Mcps
+C.	270.833 Ksps
+D.	100 Mcps
+
+46. Modulation is done in …………..
+A.	Transmitter
+B.	Radio receiver
+C.	Between transmitter and radio receiver
+D.	None of the above
+ 
+47. In a transmitter ……………. oscillator is used
+A.	Hartley
+B.	RC phase-shift
+C.	Wien-bridge
+D.	Crystal
+
+48. In India, ……………. modulation is used for radio transmission
+A.	Frequency
+B.	Amplitude
+C.	Phase
+D.	None of the above
+
+49. In an AM wave useful power is carrier by ………….
+A.	Carrier
+B.	Sidebands
+C.	Both sidebands and carrier
+D.	None of the above
+
+50. In amplitude modulation, bandwidth is ……………. the audio signal frequency
+A.	Thrice
+B.	Four times
+C.	Twice
+D.	None of the above
+
+51. In amplitude modulation, the ………… of carrier is varied according to the strength of the signal.
+
+A.	Amplitude
+B.	Frequency
+C.	Phase
+D.	None of the above
+
+52. Overmodulation (amplitude) occurs when signal amplitude is …………. carrier amplitude
+A.	Equal to
+B.	Greater than
+C.	Less than
+D.	None of the above
+
+53. In an AM wave, the majority of the power is in …………….
+A.	Lower sideband
+B.	Upper sideband
+C.	Carrier
+D.	None of the above
+
+54. At 100% modulation, the power in each sideband is ………………… of that of carrier
+A.	50%
+B.	40%
+C.	60%
+D.	25%
+
+55. Overmodulation results in …………..
+A.	Weakening of the signal
+B.	Excessive carrier power
+C.	Distortion
+D.	None of the above
+
+56.Which of this is not a guided media ?
+a) Fiber optical cable
+b) Coaxial cable
+c) Wireless LAN
+d) Copper wire
+
+57.UTP is commonly used in
+a) DSL
+b) FTTP
+c) HTTP
+d) None of the mentioned
+
+58.Coaxial cable consists of _______ concentric copper conductors.
+a) 1
+b) 2
+c) 3
+d) 4
+
+59.Fiber optics posses following properties
+a) Immune electromagnetic interference
+b) Very less signal attenuation
+c) Very hard to tap
+d) All of the mentioned
+
+60. If an Optical Carrier is represented as OC-n, generally the link speed equals(in Mbps),
+a) n*39.8
+b) n*51.8
+c) 2n*51.8
+d) None of the mentioned
+
+61.Terrestrial radio channels are broadly classifed into _____ groups.
+a) 2
+b) 3
+c) 4
+d) 1
+
+62.IMT-2000 is a digital mobile system that functions as
+a. Pager
+b. Cordless
+c. Low earth orbit satellites
+d. All of the above
+
+63.The 2G cellular network uses
+a. TDMA/FDD
+b. CDMA/FDD
+c. Digital modulation formats
+d. All of the above
+
+64.NADC is a 2G standard for
+a. TDMA
+b. CDMA
+c. Both a & b
+d. None of the above
+
+65.2G CDMA standard – cdma one supports up to
+a. 8 users
+b. 64 users
+c. 32 users
+d. 116 users
+
+66.2G standards support
+a. Limited internet browsing
+b. Short Messaging Service
+c. Both a & b
+d. None of the above
+
+67. Which of the following devices are similar to electronic data loggers?
+a) Chart recorders
+b) Flip flop
+c) Memory
+d) None of the mentioned
+
+68. Which of the following protocol allow the instrument to connect to a data logger?
+A.	SDI-10
+B.	SDI-12
+C.	SAI-10
+D.	 SAI-12
+
+69. Which of the following statement is false?
+A.	All data loggers are data acquisition system
+B.	All data acquisition systems are data loggers
+C.	Data logger and Data acquisition systems are same is operation
+D.	All of the mentioned
+
+
+70. Data logger system have _______________
+A.	Slow sampling rate
+B.	Fast sampling rate
+C.	Unpredictable sampling rate
+D.	None of the mentioned
+
+71. Which of the following is correct for data loggers?
+A.	Simple single channel instrument
+B.	Medium channel instrument
+C.	Complex multiple channel instrument
+D.	All of the mentioned
+
+72. Device for monitoring various electrical activity of cardio vascular system is ________________
+A.	Diagnostic trouble coder
+B.	Holter monitor
+C.	Cardio event decoder
+D.	Electronic health logger
+
+73. Data logger deals with __________________
+A.	Digital signals
+B.	Analog signals
+C.	Both digital and analog signals
+D.	None of the mentioned
+
+74. In 2007 ____________ announced its plan to transmit its network to 4G standard LTE with joint efforts of Vodafone group.
+A.	Verizon Wireless
+B.	AirTouch
+C.	Netflix
+D.	V Cast
+
+75. Hybrid ARQ is part of the ____________ layer.
+A.	PDCP
+B.	RLC
+C.	MAC
+D.	 PHY
+
+ 

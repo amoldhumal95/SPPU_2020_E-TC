@@ -1,0 +1,534 @@
+Question 1
+
+_____ is the most effective filter for separating luminance and chrominance frequency components.
+Select one:
+a. Notch
+b. Comb
+c. Band pass 
+d. Low pass
+
+The  answer is: Comb
+Question 2
+
+A 3.58-MHz subcarrier signal for color in television
+Select one:
+a. Chroma signal
+b. Hue signal
+c. Video signal
+d. Audio signal
+
+The  answer is: Chroma signal
+Question 3
+
+A technique where segments of videotape are joined by electronic erasing and recording to create a single program
+Select one:
+a. segmenting
+b. masking
+c. editing
+d. programming
+
+The  answer is: editing
+Question 4
+
+A video or audio signal that can be used directly to reproduce the picture and sound.
+Select one:
+a. Electromagnetic wave signal
+b. Modulated signal
+c. Baseband signal
+d. Broadband signal
+
+The  answer is: Baseband signal
+Question 5
+
+Aspect ratio for width to height for a TV picture frame is
+Select one:
+a. 16:9 
+b. 2:3
+c. 1:1
+d. 4:4
+
+The  answer is: 4:4
+Question 6
+
+Aspect ratio for width to height for a TV picture frame is
+Select one:
+a. 1:1
+b. 4:3
+c. 16:9 
+d. 2:3
+
+The  answer is: 4:3
+Question 7
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Aspect ratio of a televisions is
+Select one:
+a. 4:3 
+b. 9:16
+c. None of above
+d. 3:4
+
+The  answer is: 4:3
+Question 8
+
+Audio modulation for television is
+Select one:
+a. Frequency modulation
+b. Amplitude modulation
+c. Vestigial sideband
+d. Both amplitude modulation and vestigial sideband 
+The  answer is: Frequency modulation
+Question 9
+
+Bandwidth of AMVSB for video carrier is
+Select one:
+a. 7.85 MHz
+b. 11.00 MHz
+c. 5.75 MHZ
+d. 4.00 MHz
+
+The  answer is: 5.75 MHZ
+Question 10
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Brightness of an image is known as
+Select one:
+a. Reflectance
+b. Luminance 
+c. Radiance
+d. Chrominance
+
+The  answer is: Luminance
+Question 11
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Brightness variations of the picture information are in which signal?
+Select one:
+a. Q
+b. R-Y
+c. I
+d. Y 
+
+The  answer is: Y
+Question 12
+
+Each sequence of scanning in the interlaced scanning method is known as
+Select one:
+a. Field
+b. Scanning lines
+c. Trace path 
+d. Retrace path
+
+The  answer is: Field
+Question 13
+
+Horizontal scanning frequency, according to CCIR standards is
+Select one:
+a. 15725 Hz
+b. 15625 Hz
+c. 60 Hz
+d. 15750 Hz
+
+The  answer is: 15625 Hz
+Question 14
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+How much time elapses between the start of one horizontal sync pulse and the next?
+Select one:
+a. 16.67 μs
+b. 63.5 μs 
+c. 100 μs
+d. 10.2 μs
+
+The  answer is: 63.5 μs
+Question 15
+
+If a TV picture has 525 lines and scanning rate is 30 pictures/second, time for scanning one line is second
+Select one:
+a. 30/525 
+b. 525/30
+c. 1/30 x 525
+d. 30 x 525
+
+The  answer is: 1/30 x 525
+Question 16
+
+If there are 625 lines per TV picture, then lines per field are
+Select one:
+a. 312.5
+b. 2500
+c. 1250
+d. 625
+
+The  answer is: 312.5
+Question 17
+
+In a composite video signal, what is the relationship between the amplitude of the signal and the intensity of the electron beam in the receiver picture tube?
+Select one:
+a. The greater the amplitude the lighter the picture
+b. No effect
+c. The greater the amplitude the darker the picture
+d. The lower the amplitude the darker the picture
+
+The  answer is: The greater the amplitude the darker the picture
+Question 18
+
+In all standard television broadcast channels he difference between picture and sound carrier frequencies is
+Select one:
+a. 1.25 MHz
+b. 4.5 MHz
+c. 0.25 MHz
+d. 6 MHz
+
+The  answer is: 4.5 MHz
+Question 19
+
+Interlaced scanning eliminates
+Select one:
+a. flicker
+b. distortion 
+c. snowing
+d. fading
+
+The  answer is: flicker
+Question 20
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Picture frames are repeated at the rate of _____ per second
+Select one:
+a. 40
+b. 25
+c. 50
+d. 30 
+
+The  answer is: 30
+Question 21
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Term in communication which is referred, “to send out in all direction”
+Select one:
+a. media
+b. transmit
+c. announce
+d. broadcast 
+
+The  answer is: broadcast
+Question 22
+
+The amount of color in the picture or color intensity in the
+Select one:
+a. chroma level
+b. any of these
+c. color level
+d. saturation 
+The  answer is: any of these
+Question 23
+
+The color with the most luminance is
+Select one:
+a. Blue
+b. Green
+c. Red 
+d. Yellow
+
+The  answer is: Yellow
+Question 24
+
+The difference between sound carrier frequencies in two adjacent channels equals
+Select one:
+a. 1.25 MHz
+b. 4.5 MHz
+c. 0,25 MHz
+d. 6 MHz
+
+The  answer is: 6 MHz
+Question 25
+
+The function of a sync separator ma TV set is to separate the signals.
+Select one:
+a. video and line sync 
+b. sound and field sync
+c. video and sound
+d. line sync and field sync
+
+The  answer is: line sync and field sync
+Question 26
+
+The hue 1800 out of phase with red is
+Select one:
+a. Cyan
+b. Green
+c. Blue 
+d. Yellow
+
+The  answer is: Cyan
+Question 27
+
+The hue of color sync phase is
+Select one:
+a. red
+b. cyan
+c. blue 
+d. yellow green
+
+The  answer is: yellow green
+Question 28
+
+The hue of color sync phase is
+Select one:
+a. Red
+b. Yellow-green
+c. Blue 
+d. Cyan
+
+The  answer is: Yellow-green
+Question 29
+
+The interlaced scanning, there is one half line spacing between the start positions scanning odd and even fields. This is done to produce :
+Select one:
+a. Linear scanning 
+b. Horizontal scanning
+c. exact interlacing
+d. line paring
+
+The  answer is: exact interlacing
+Question 30
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+The main purpose of interlacing in television scanning is to
+Select one:
+a. sharpenpicture outline
+b. brighten the TV picture
+c. reduce flicker 
+d. increase channel bandwidth
+
+The  answer is: reduce flicker
+Question 31
+
+The number of frames per second in the Philippine TV system is
+Select one:
+a. 4.5
+b. 60 
+c. 262 ½
+d. 30
+
+The  answer is: 30
+Question 32
+
+The number of interruption in projecting movie pictures on a cinema screen are
+Select one:
+a. 48
+b. 24 
+c. 50
+d. 60
+
+The  answer is: 48
+Question 33
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+The number of scanning lines is _____ per second
+Select one:
+a. 16550
+b. 14750
+c. 15570
+d. 15750 
+
+The  answer is: 15750
+Question 34
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+The phase angle between B – Y and R – Y is
+Select one:
+a. 180°
+b. 0A
+c. 57°
+d. 90° 
+
+The  answer is: 90°
+Question 35
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+The term pedestal is used for
+Select one:
+a. Sync top level
+b. White level
+c. Black level
+d. Blanking level 
+
+The  answer is: Blanking level
+Question 36
+
+Trace period of a horizontal line is
+Select one:
+a. None of the above
+b. 18720?s
+c. 1280?s
+d. 20ms 
+The  answer is: 18720?s
+Question 37
+
+Trace period of a horizontal line is
+Select one:
+a. 12?s
+b. 52?s
+c. 1280?s
+d. 64?s 
+The  answer is: 1280?s
+Question 38
+
+TV channel 2, 4 and 5 belong to
+Select one:
+a. Low band VHF
+b. High band VHF
+c. Mid band UHF
+d. Low band UHF
+
+The  answer is: Low band VHF
+Question 39
+
+Type of radio communication transmission utilizing frequency modulation technique
+Select one:
+a. television video
+b. single sideband HF transmission
+c. broadcasting in 535-1606 kHz
+d. television audio
+
+The  answer is: television video
+Question 40
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Video modulation for television is
+Select one:
+a. Both amplitude modulation and vestigial sideband 
+b. Vestigial sideband
+c. Frequency modulation
+d. Amplitude modulation
+
+The  answer is: Both amplitude modulation and vestigial sideband
+Question 41
+
+Video signals below 10% of the carrier are known as
+Select one:
+a. White then white
+b. Pedestal height
+c. Blacker then black
+d. Blacker than black
+
+The  answer is: White then white
+Question 42
+
+What is the approximate bandwidth occupied by the chrominance video signal for color TV?
+Select one:
+a. 1.8 MHz
+b. 0.8 MHz
+c. 8.1 MHz
+d. 1.6 MHz 
+The  answer is: 1.8 MHz
+Question 43
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+What is the phase difference between the I and Q color signal carriers?
+Select one:
+a. 90° 
+b. 60°
+c. 45°
+d. 0°
+
+The  answer is: 90°
+Question 44
+
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+What is the smallest amount of information that can be displayed on a television screen?
+Select one:
+a. Pixel 
+b. Bits
+c. Blip
+d. Burst
+
+The  answer is: Pixel
+Question 45
+
+What technique is used to permit hundreds of TV signals to share a common cable
+Select one:
+a. Frequency modulation
+b. Frequency division multiplexing
+c. Mixing
+d. Time division multiplexing
+
+The  answer is: Frequency division multiplexing
+Question 46
+
+When does broadcast station conduct an equipment test?
+Select one:
+a. at any time 
+b. during day time
+c. during night time
+d. during experimental period
+
+The  answer is: during experimental period
+Question 47
+
+Which of the following frequencies is wrong?
+Select one:
+a. 15,750 Hz for horizontal sync and scanning
+b. 31,500 Hz for the equalizing pulses and serrations in the vertical sync pulse
+c. 60 Hz for vertical sync and scanning
+d. 31,500 Hz for the vertical scanning frequency
+
+The  answer is: 31,500 Hz for the vertical scanning frequency
+Question 48
+
+Which of the following is not a benefit of cable TV?
+Select one:
+a. Less noise, stronger signal
+b. Premium cable channels
+c. Greater stability
+d. Lower-cost reception
+
+The  answer is: Lower-cost reception
+Question 49
+
+Which signal has color information for 1.5 MHz bandwidth?
+Select one:
+a. B – Y
+b. R – Y 
+c. Y
+d. I
+
+The  answer is: I
+Question 50
+
+With ten percent for horizontal flyback, this time equals
+Select one:
+a. 83 us
+b. 10 us 
+c. 5 us
+d. 6.4 us
+
+The  answer is: 6.4 us
