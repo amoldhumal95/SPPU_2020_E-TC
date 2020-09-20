@@ -60,9 +60,7 @@ d. 2:3
 The  answer is: 4:3
 Question 7
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 Aspect ratio of a televisions is
 Select one:
 a. 4:3 
@@ -92,9 +90,7 @@ d. 4.00 MHz
 The  answer is: 5.75 MHZ
 Question 10
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 Brightness of an image is known as
 Select one:
 a. Reflectance
@@ -105,9 +101,7 @@ d. Chrominance
 The  answer is: Luminance
 Question 11
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 Brightness variations of the picture information are in which signal?
 Select one:
 a. Q
@@ -138,9 +132,7 @@ d. 15750 Hz
 The  answer is: 15625 Hz
 Question 14
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 How much time elapses between the start of one horizontal sync pulse and the next?
 Select one:
 a. 16.67 μs
@@ -201,9 +193,7 @@ d. fading
 The  answer is: flicker
 Question 20
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 Picture frames are repeated at the rate of _____ per second
 Select one:
 a. 40
@@ -214,9 +204,7 @@ d. 30
 The  answer is: 30
 Question 21
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 Term in communication which is referred, “to send out in all direction”
 Select one:
 a. media
@@ -306,9 +294,7 @@ d. line paring
 The  answer is: exact interlacing
 Question 30
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 The main purpose of interlacing in television scanning is to
 Select one:
 a. sharpenpicture outline
@@ -339,9 +325,7 @@ d. 60
 The  answer is: 48
 Question 33
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 The number of scanning lines is _____ per second
 Select one:
 a. 16550
@@ -352,9 +336,7 @@ d. 15750
 The  answer is: 15750
 Question 34
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 The phase angle between B – Y and R – Y is
 Select one:
 a. 180°
@@ -365,9 +347,7 @@ d. 90°
 The  answer is: 90°
 Question 35
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 The term pedestal is used for
 Select one:
 a. Sync top level
@@ -416,9 +396,7 @@ d. television audio
 The  answer is: television video
 Question 40
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 Video modulation for television is
 Select one:
 a. Both amplitude modulation and vestigial sideband 
@@ -448,9 +426,7 @@ d. 1.6 MHz
 The  answer is: 1.8 MHz
 Question 43
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 What is the phase difference between the I and Q color signal carriers?
 Select one:
 a. 90° 
@@ -461,9 +437,7 @@ d. 0°
 The  answer is: 90°
 Question 44
 
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
+
 What is the smallest amount of information that can be displayed on a television screen?
 Select one:
 a. Pixel 
